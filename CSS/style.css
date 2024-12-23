@@ -7,3 +7,31 @@
 .mazda {
   background-color: rgb(173, 173, 17);
 }
+
+
+.text-box {
+  background-color: #fff;
+  border: 2px solid #4CAF50;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.funny {
+  background-color: #ffecb3;
+  border: 2px solid #ff9800;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #ff9800;
+  font-size: 18px;
+  line-height: 1.6;
+}
